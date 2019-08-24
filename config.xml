@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "ua.pp.xn--i1afg.moyapp"
+    id          = "ua.pp.xn--i1afg"
     versionCode = "10"
-    version     = "1.1.0">
+    version     = "1.2.0">
 
-<name>ТЕСТ. МоёApp</name>
+<name>ТЕСТ. МойApp</name>
 
 <description>
     Моё приложение. Контакты. Ссылки на файлы.
@@ -34,7 +34,7 @@
 <preference name='WindowsToastCapable' value='true' />
 
 <preference name="SplashMaintainAspectRatio" value="true" />
-<preference name="SplashScreenSpinnerColor" value="#05800B" />
+<preference name="SplashScreenSpinnerColor" value="#069019" />
 
 
 <platform name="android">
